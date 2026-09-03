@@ -1,0 +1,4 @@
+quizás no entiendas que significa "pb"
+en realidad "pb" significa que el archivo JavaScript
+tiene su código original hecho en PenguinBuilder (creado por jwklong)
+y PenguinBuilder tiene las siglas PB lo que es pb

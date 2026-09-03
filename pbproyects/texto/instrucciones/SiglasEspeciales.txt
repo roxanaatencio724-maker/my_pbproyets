@@ -1,0 +1,11 @@
+Siglas Especiales de Archivos: 
+
+rounds:
+roundnorm es el redondeo normal.
+rounddown es el redondeo hacia abajo.
+roundup es el redondeo  hacia arriba.
+
+limites:
+lim seguido de un número es el limite de una función (y el limite es ese número).
+
+pb se encuentra en la carpeta instrucciones y en el archivo que_es_pb.txt .
