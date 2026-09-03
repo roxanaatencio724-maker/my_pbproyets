@@ -1,2 +1,2 @@
 # my_pbproyets
-These are my PenguinBuilder projects (PenguinBuilder is an extension creator for PenguinMod, access it at https://penguinbuilder.github.io/)
+Aqui estan mis proyectos de PenguinBuilder, para acceder a PenguinBuilder accede a https://penguinbuilder.github.io/
